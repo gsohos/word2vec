@@ -1,6 +1,11 @@
 word2vec
 ========
 
+Changes to make cmake compatible.
+Depends on BuildType.cmake script from https://blog.kitware.com/cmake-and-the-default-build-type/
+Default build is Debug
+
+
 Original from https://code.google.com/p/word2vec/
 
 I've copied it to a github project so I can apply and track community patches for my needs (starting with capability for Mac OS X compilation).
